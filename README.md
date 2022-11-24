@@ -1,0 +1,1 @@
+the program simulates a dictionary using a SQL database
